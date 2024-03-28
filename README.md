@@ -3,12 +3,12 @@ This project contains a simple C++ navigation system simulation. Users can navig
 
 # Usage
 Upon starting the program, the user will be presented with various options:
-Print Map
-Find Nearest Building
-Go
-Info
-Close Navigation System
-Exit
+### Print Map
+### Find Nearest Building
+### Go
+### Info
+### Close Navigation System
+### Exit
 The user can select the desired option and the program will perform the respective operation.
 
 # Sample Usage
